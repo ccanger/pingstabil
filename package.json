@@ -10,4 +10,6 @@
     "lucide-react": "^0.536.0",
     "react-router-dom": "^7.7.1"
   }
+  "build:dev": "vite build --mode development"
+
 }
